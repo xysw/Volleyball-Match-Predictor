@@ -40,4 +40,5 @@ pip install pandas numpy matplotlib scikit-learn xgboost hyperopt
 ## Limitations
 * Huge portion of game statistics data missing limits the model's ability to consistently use these performance-based features
 * A gap of 5% between training and validation dataset accuracy suggests the model may be overfitting
+
 Hence, future exploration will be to prevent overfitting, maybe with more conservative hyperparameter restraints, or looking into handling missing game statistics data.
