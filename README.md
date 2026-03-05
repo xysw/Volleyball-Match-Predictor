@@ -18,7 +18,7 @@ This project was created to become familiar with the machine learning process an
 
 ## Launch
 ### Run locally:
-1. Download the dataset, vb_matches.csv, and place it in the same directory as the notebook.
+1. Download the dataset, vb_matches.csv, and unzip the file. Place it in the same directory as the notebook.
 
 2. Install dependencies
 ```
