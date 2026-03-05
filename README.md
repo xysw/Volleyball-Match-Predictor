@@ -8,6 +8,12 @@ This project was created to become familiar with the machine learning process an
 
 ## Technologies
 * Python 3.12.10
+* pandas: 2.2.2
+* numpy: 1.24.3
+* matplotlib: 3.8.4
+* scikit-learn: 1.4.2
+* xgboost: 2.1.3
+* hyperopt: 0.2.7
 
 
 ## Launch
