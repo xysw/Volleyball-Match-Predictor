@@ -4,7 +4,7 @@ A machine learning project that predicts the outcome of beach volleyball matches
 
 The dataset used in this project contained player and match info from FIVB and AVP volleyball competitions, and can be found here: https://github.com/BigTimeStats/beach-volleyball
 
-This project was created to become familiar with the machine learning process and learn how to visualise and analyse data, engineer features, handle missing values, perform hyperparameter tuning, and understand the model training process. 
+This project was created to become familiar with the machine learning process and learn how to better visualise and analyse data, engineer features, handle missing values, perform hyperparameter tuning, and understand the model training process. 
 
 ## Technologies
 * Python 3.12.10
