@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib scikit-learn xgboost hyperopt
 
 3. Feature engineering - created a home-country advantage feature, combined game statistics data into an error_ratio feature, and restructured data from "winning team" and "losing team" format to "Team A" and "Team B", with a target column of "Team A wins". Flipped 50% of rows to balance data.
 
-4. Established a naive baseline algorithm predicting entirely on ranks, and also trained a baseline logistic regression algorithm, both reaching 70% accuracy and 0.78 AUROC.
+4. Established a naive baseline algorithm predicting entirely based on ranks, and also trained a baseline logistic regression algorithm, reaching ~70% accuracy and ~0.78 AUROC (for the regression algorithm).
 
 5. Trained XGBoost with default hyperparameters and tuned using HyperOpt library (78.0% accuracy, 0.88 AUROC). Test accuracy matched validation accuracy. XGBoost outperformed the baseline algorithms by 8% accuracy and 0.10 AUROC.
 
